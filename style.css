@@ -1,0 +1,61 @@
+body{
+    font-family: "Inter",serif;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+#first{
+    color: #424242;
+    box-shadow: 2px 1px 2px #eee;
+    height: 60px;
+    font-weight: 400;
+}
+#second{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+#third{
+    display: flex;
+    cursor: pointer;
+}
+#forth{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.first-class{
+    color: #666;
+    padding: 20px;
+}
+#zerodha-logo{
+    height: 17px;
+    padding: 20px;
+}
+h1{
+    font-weight: 500;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+h5{
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+#signup-button{
+    margin-top: 25px;
+    background-color: #387ed1;
+    color: #fff;
+    border: 1px solid rgba(0,0,0,0) !important;
+    border-radius: 3px;
+    padding: 10px 30px;
+    font-weight: 500;
+    font-size: 20px;
+    cursor: pointer;
+}
